@@ -148,42 +148,20 @@ A web-based Hostel Food Management System developed as part of the **PRAKSHALA T
 
 <!-- ======================= GITHUB STATS ======================= -->
 
-# 📊 GitHub Stats
+<!-- ======================= GITHUB ACTIVITY ======================= -->
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thibish760&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
+<img src="https://streak-stats.demolab.com/?user=Thibish760&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
-<!-- ======================= TOP LANGUAGES ======================= -->
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thibish760&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<!-- ======================= STREAK ======================= -->
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Thibish760&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<!-- ======================= PROFILE VIEWS ======================= -->
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Thibish760&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
-
-<!-- ======================= FOOTER ======================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=Thibish760&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
