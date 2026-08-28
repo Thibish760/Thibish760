@@ -139,16 +139,22 @@ June 2025 – Present
 
 ---
 
-## 📈 GitHub Activity
+
+---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Thibish760&theme=tokyo-night&hide_border=true"
-    alt="Thibish760 GitHub Activity Graph"
-  />
+  <a href="https://github.com/Thibish760">
+    <img
+      src="https://img.shields.io/badge/GitHub-Thibish760-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Profile"
+    />
+  </a>
 </p>
+
+---
+
 ## 👀 Profile Visitors
 
 <p align="center">
@@ -157,15 +163,8 @@ June 2025 – Present
     alt="Profile Views"
   />
 </p>
-🔧 Tools I Use
 
-Category| Tools
-Code Editor| VS Code
-Version Control| Git, GitHub
-Deployment| Vercel, Netlify
-Backend Services| Firebase, Supabase
-API Development| REST APIs
-Workflow| Agile / Scrum
+---
 
 ---
 
