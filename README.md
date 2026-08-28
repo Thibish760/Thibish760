@@ -172,13 +172,14 @@ June 2025 – Present
 
 ## 🐍 Contribution Graph
 
+## 🐍 Contribution Graph
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Thibish760/Thibish760/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
-
 ---
 
 ## 👀 Profile Visitors
