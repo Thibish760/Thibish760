@@ -1,154 +1,71 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=200&section=header&text=THIBISH%20D&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn)
+# 💫 About Me:
+🔭 Currently working on → Real work/project<br>
+👯 Looking to collaborate on → Type of projects<br>
+🌱 Currently learning → Specific technical area<br>
+💬 Ask me about → Your strongest technologies<br>
+🚀 Interested in → Career/technical direction<br>
+⚡ Fun fact → Genuine personal detail
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+clean%2C+scalable+full-stack+apps;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
-</a>
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Thibish760&color=a78bfa&style=flat)
-![Followers](https://img.shields.io/github/followers/Thibish760?label=Followers&color=a78bfa&style=flat)
+## 🌐 Socials
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thibish.dev/)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1LjrukfKcOnSZ3_79qTn4U6RYxxr23qHE/view?usp=drive_link)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thibish_760?igsi=NWd1Z3h4c2tvYmpp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thibish-d-2784b128b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@THIBISH)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thibish760@gmail.com)
+
+<br>
+
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.shion.dev/api?username=Thibish760&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%" style="max-width:495px;" />
+
+<img src="https://streak-stats.demolab.com/?user=Thibish760&theme=dark&hide_border=false" alt="GitHub Streak" width="100%" style="max-width:495px;" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Thibish760&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%" style="max-width:495px;" />
+
+<br><br>
+
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Thibish760&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" style="max-width:700px;" />
+
+<br>
+
+### ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="100%" style="max-width:600px;" />
+
+<br>
+
+### 🔝 Top Contributed Repo
+<img src="https://github-contributor-stats.vercel.app/api?username=Thibish760&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="100%" style="max-width:700px;" />
+
+---
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=Thibish760&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
 
----
-
-## 🔗 Connect With Me
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/thibish-d-2784b128b" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Thibish760" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:thibish760@gmail.com" target="_blank">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/thibish_760" target="_blank">
-        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram"/>
-      </a>
-    </td>
-    <td align="center">
-      <!-- TODO: add your Discord invite link -->
-      <a href="#" target="_blank">
-        <img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55" alt="Discord"/>
-      </a>
-    </td>
-    <td align="center">
-      <!-- TODO: add your portfolio URL -->
-      <a href="#" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/>
-      </a>
-    </td>
-    <td align="center">
-      <!-- TODO: add your Kaggle URL -->
-      <a href="#" target="_blank">
-        <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Kaggle"/>
-      </a>
-    </td>
-    <td align="center">
-      <!-- TODO: add a hosted link to your resume PDF -->
-      <a href="#" target="_blank">
-        <img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" height="55" alt="Resume"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<table><tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/></td>
-</tr></table>
-
-**Web & App Dev**
-
-<table><tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express.js"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS"/></td>
-</tr></table>
-
-**Cloud & Infra**
-
-<table><tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55" alt="Firebase"/></td>
-<td align="center"><img src="https://cdn.simpleicons.org/vercel/000000" width="55" height="55" alt="Vercel"/></td>
-<td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="55" height="55" alt="Netlify"/></td>
-</tr></table>
-
-**Databases**
-
-<table><tr>
-<td align="center"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="55" height="55" alt="Supabase"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55" alt="Firestore"/></td>
-</tr></table>
-
-**Dev Tools**
-
-<table><tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/></td>
-</tr></table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Thibish760&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thibish760&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" width="38%"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Thibish760&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA" width="60%"/>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thibish760&theme=tokyo-night&hide_border=true&line=A78BFA&color=A78BFA" width="90%"/>
-</div>
-
----
-
-<div align="center">
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-</div>
-
----
-
-```
-   ____  __  __ ______    ____ _
-  |  _ \|  \/  |___  /   / ___(_)_ __   __ _
-  | |_) | |\/| | / /    | |   | | '_ \ / _` |
-  |  _ <| |  | |/ /_    | |___| | | | | (_| |
-  |_| \_\_|  |_/____|    \____|_|_| |_|\__, |
-                                        |___/
-        BUILDING SOMETHING NEW EVERY DAY
-```
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=120&section=footer)
