@@ -107,23 +107,25 @@ June 2025 – Present
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Thibish760&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Thibish760 GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thibish760&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Thibish760 Top Languages"
-  />
+  <a href="https://github.com/Thibish760">
+    <img src="https://img.shields.io/github/followers/Thibish760?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Thibish760?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Thibish760?label=Stars&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Thibish760">
+    <img src="https://komarev.com/ghpvc/?username=Thibish760&label=PROFILE+VIEWS&style=for-the-badge" />
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/Thibish760?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ## 🔥 GitHub Streak
 
