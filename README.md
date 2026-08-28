@@ -172,35 +172,36 @@ June 2025 – Present
 
 ---
 
+---
+
 ## 📊 GitHub Contributions
 
 <p align="center">
 
 <a href="https://github.com/Thibish760">
   <img
-    src="https://img.shields.io/github/commit-activity/y/Thibish760?style=for-the-badge&label=YEARLY%20COMMITS"
-    alt="Yearly Commits"
-  />
-</a>
-
-<a href="https://github.com/Thibish760">
-  <img
-    src="https://img.shields.io/github/last-commit/Thibish760/Thibish760?style=for-the-badge&label=LAST%20PROFILE%20UPDATE"
-    alt="Last Commit"
+    src="https://img.shields.io/github/followers/Thibish760?style=for-the-badge&label=FOLLOWERS"
+    alt="GitHub Followers"
   />
 </a>
 
 <a href="https://github.com/Thibish760?tab=repositories">
   <img
     src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="Repositories"
+    alt="View Repositories"
+  />
+</a>
+
+<a href="https://github.com/Thibish760">
+  <img
+    src="https://img.shields.io/badge/GitHub-@Thibish760-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub Profile"
   />
 </a>
 
 </p>
 
 ---
-
 ## 👀 Profile Visitors
 
 <p align="center">
