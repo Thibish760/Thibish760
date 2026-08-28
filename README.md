@@ -107,8 +107,6 @@ June 2025 – Present
 
 ---
 
-📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -154,7 +152,7 @@ June 2025 – Present
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Thibish760&label=Profile%20Views&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=Thibish760&label=PROFILE+VIEWS&style=for-the-badge"
     alt="Profile Views"
   />
 </p>
