@@ -170,13 +170,33 @@ June 2025 – Present
 
 ---
 
-## 🐍 Contribution Graph
+---
+
+## 📊 GitHub Contributions
 
 <p align="center">
+
+<a href="https://github.com/Thibish760">
   <img
-    src="https://raw.githubusercontent.com/Thibish760/Thibish760/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
+    src="https://img.shields.io/github/commit-activity/y/Thibish760?style=for-the-badge&label=YEARLY%20COMMITS"
+    alt="Yearly Commits"
   />
+</a>
+
+<a href="https://github.com/Thibish760">
+  <img
+    src="https://img.shields.io/github/last-commit/Thibish760/Thibish760?style=for-the-badge&label=LAST%20PROFILE%20UPDATE"
+    alt="Last Commit"
+  />
+</a>
+
+<a href="https://github.com/Thibish760?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repositories"
+  />
+</a>
+
 </p>
 
 ---
