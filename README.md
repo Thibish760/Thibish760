@@ -168,21 +168,30 @@ June 2025 – Present
 
 ---
 
-🐍 Contribution Graph
+---
 
-<p align="center">"GitHub Contribution Snake" (https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Graph
 
-</p>---
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Thibish760/Thibish760/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
-📈 GitHub Activity
+---
 
-<p align="center">""GitHub Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=&theme=tokyo-night&hide_border=true)" (https://github.com/
+## 👀 Profile Visitors
 
-</p>---
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Thibish760&label=PROFILE+VIEWS&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
-👀 Profile Visitors
+---
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" /></p>---
 
 🎯 Currently Learning
 
