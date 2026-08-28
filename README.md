@@ -141,15 +141,14 @@ June 2025 – Present
 
 ## 📈 GitHub Activity
 
+## 📈 GitHub Activity
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Thibish760&theme=tokyo-night&hide_border=true"
     alt="Thibish760 GitHub Activity Graph"
   />
 </p>
-
----
-
 ## 👀 Profile Visitors
 
 <p align="center">
