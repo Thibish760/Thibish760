@@ -110,7 +110,6 @@ June 2025 – Present
 📊 GitHub Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /></p>---
-
 🔥 GitHub Streak
 
 <p align="center">
@@ -137,7 +136,7 @@ Workflow| Agile / Scrum
 
 📈 GitHub Activity
 
-<p align="center">""GitHub Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=Thibish760&theme=tokyo-night&hide_border=true)" (https://github.com/Thibish760
+<p align="center">""GitHub Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=&theme=tokyo-night&hide_border=true)" (https://github.com/
 
 </p>---
 
