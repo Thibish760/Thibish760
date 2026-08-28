@@ -1,228 +1,154 @@
-# 👋 Hi, I'm Thibish D
+<div align="center">
 
-<h3 align="center">
-  Full Stack Developer | Building Modern Web Applications
-</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=200&section=header&text=THIBISH%20D&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn)
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React.js+%7C+TypeScript+Developer;Building+Real-World+Web+Applications;Always+Learning+%26+Improving"
-    alt="Typing Animation"
-  />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+clean%2C+scalable+full-stack+apps;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://td-portflio760.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
+![Profile Views](https://komarev.com/ghpvc/?username=Thibish760&color=a78bfa&style=flat)
+![Followers](https://img.shields.io/github/followers/Thibish760?label=Followers&color=a78bfa&style=flat)
 
-  <a href="https://www.linkedin.com/in/thibish-d-2784b128b/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="./Thibish_D_Resume_new.pdf">
-    <img
-      src="https://img.shields.io/badge/Resume-Download%20CV-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
-      alt="Resume"
-    />
-  </a>
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🔗 Connect With Me
 
-I'm a **Full Stack Developer** with hands-on experience building and deploying end-to-end web applications.
-
-Currently, I'm working as a **Software Developer Intern at Azhizen Solutions**, contributing to frontend development, backend integration, API development, debugging, and production deployments.
-
-### 🔹 What I Do
-
-- 💻 Build responsive and scalable web applications
-- ⚛️ Develop modern interfaces using React.js and TypeScript
-- 🔗 Build and integrate RESTful APIs
-- 🔥 Work with Firebase Authentication and Firestore
-- 🗄️ Work with Supabase and backend services
-- 🚀 Deploy applications using Vercel
-- 🤝 Collaborate using Git, GitHub, and Agile workflows
-- 🧩 Solve frontend bugs and application performance issues
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/thibish-d-2784b128b" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Thibish760" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:thibish760@gmail.com" target="_blank">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/thibish_760" target="_blank">
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram"/>
+      </a>
+    </td>
+    <td align="center">
+      <!-- TODO: add your Discord invite link -->
+      <a href="#" target="_blank">
+        <img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55" alt="Discord"/>
+      </a>
+    </td>
+    <td align="center">
+      <!-- TODO: add your portfolio URL -->
+      <a href="#" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/>
+      </a>
+    </td>
+    <td align="center">
+      <!-- TODO: add your Kaggle URL -->
+      <a href="#" target="_blank">
+        <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Kaggle"/>
+      </a>
+    </td>
+    <td align="center">
+      <!-- TODO: add a hosted link to your resume PDF -->
+      <a href="#" target="_blank">
+        <img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" height="55" alt="Resume"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python" alt="Languages" />
-</p>
+<table><tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/></td>
+</tr></table>
 
-### ⚛️ Frontend
+**Web & App Dev**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend Technologies" />
-</p>
+<table><tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express.js"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS"/></td>
+</tr></table>
 
-### 🖥️ Backend
+**Cloud & Infra**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" />
-</p>
+<table><tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55" alt="Firebase"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/vercel/000000" width="55" height="55" alt="Vercel"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="55" height="55" alt="Netlify"/></td>
+</tr></table>
 
-### 🗄️ Database & Backend Services
+**Databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" alt="Database Technologies" />
-</p>
+<table><tr>
+<td align="center"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="55" height="55" alt="Supabase"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55" alt="Firestore"/></td>
+</tr></table>
 
-### 🔧 Tools & Platforms
+**Dev Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Tools and Platforms" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 Smart Hospital Management System
-
-A full-stack hospital management application designed to manage:
-
-- Patient records
-- Doctor management
-- Appointment scheduling
-- Billing and administration
-- Admin, Doctor, and Patient roles
-
-**Technologies**
-
-`React.js` `TypeScript` `Tailwind CSS` `Node.js` `Firebase` `Firestore` `REST APIs` `Git`
+<table><tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/></td>
+</tr></table>
 
 ---
 
-### 🍱 Hostel Food Management System
+## 📊 GitHub Analytics
 
-A web-based Hostel Food Management System developed during the **PRAKSHALA Technology Bootcamp & Hackathon** to solve a real-world hostel food coordination problem.
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Thibish760&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thibish760&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" width="38%"/>
+</div>
 
-**Technologies**
-
-`React.js` `Tailwind CSS` `JavaScript` `Firebase` `Firestore` `Git`
-
----
-
-## 💼 Professional Experience
-
-### Software Developer Intern — Azhizen Solutions
-
-**June 2025 – Present**
-
-- Developed reusable React.js components for business web applications.
-- Integrated RESTful APIs with Firebase Authentication and Firestore.
-- Collaborated with the development team using Agile practices.
-- Used Git and GitHub for version control and collaborative development.
-- Debugged frontend issues and performance bottlenecks.
-- Deployed and maintained production applications using Vercel.
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Thibish760&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA" width="60%"/>
+</div>
 
 ---
 
-## 🎯 Currently Learning
+## 📈 Contribution Activity
 
-- Advanced Full Stack Development
-- REST API Architecture
-- Scalable Backend Development
-- Database Integration
-- Production Deployment
-- Modern Web Application Development
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thibish760&theme=tokyo-night&hide_border=true&line=A78BFA&color=A78BFA" width="90%"/>
+</div>
 
 ---
 
-## 📊 GitHub
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Thibish760">
-    <img
-      src="https://img.shields.io/github/followers/Thibish760?label=Followers&style=for-the-badge"
-      alt="GitHub Followers"
-    />
-  </a>
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-  <a href="https://github.com/Thibish760?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub Repositories"
-    />
-  </a>
-
-  <a href="https://github.com/Thibish760">
-    <img
-      src="https://img.shields.io/badge/GitHub-@Thibish760-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub Profile"
-    />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Thibish760/Thibish760/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Thibish760&label=PROFILE+VIEWS&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
+```
+   ____  __  __ ______    ____ _
+  |  _ \|  \/  |___  /   / ___(_)_ __   __ _
+  | |_) | |\/| | / /    | |   | | '_ \ / _` |
+  |  _ <| |  | |/ /_    | |___| | | | | (_| |
+  |_| \_\_|  |_/____|    \____|_|_| |_|\__, |
+                                        |___/
+        BUILDING SOMETHING NEW EVERY DAY
+```
 
 ---
 
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:thibish760@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/thibish-d-2784b128b/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Thibish%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://td-portflio760.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit%20Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
-
-<p align="center">
-  <i>Build • Learn • Improve • Repeat</i>
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=120&section=footer)
