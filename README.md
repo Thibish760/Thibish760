@@ -109,13 +109,55 @@ June 2025 – Present
 
 📊 GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /></p>---
-🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>---
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Thibish760&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Thibish760 GitHub Stats"
+  />
 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thibish760&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Thibish760 Top Languages"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Thibish760&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Thibish760 GitHub Streak"
+  />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Thibish760&theme=tokyo-night&hide_border=true"
+    alt="Thibish760 GitHub Activity Graph"
+  />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Thibish760&label=Profile%20Views&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 🔧 Tools I Use
 
 Category| Tools
